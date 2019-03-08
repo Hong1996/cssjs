@@ -111,16 +111,16 @@ jQuery(divpopup).attr('id', 'myModalthanh');
 jQuery(divpopup).attr('class', 'thanhfaceseo-modal');
 jQuery( "body" ).append(divpopup);
 var titleform='Đăng ký Form';
-var urlform="https://docs.google.com/forms/d/e/1FAIpQLSdCzFsxHA3PoaoFBfYosuFmGu8x1PreyfTLyzN_im0GF4w0mA";
+var urlform="https://docs.google.com/forms/d/e/1FAIpQLSdcv8KNrW7KSwkpZsWuw6sUxdKCgv9NkJtylsUcmOMHLagdIQ/formResponse";
 var urlchuyen=window.location.href;
-var hovaten="1396798895";
-var dienthoai="1831039026";
-var email="1000784698";
-var duan="1994731686";
+var hovaten="1198487882";
+var dienthoai="907708105";
+var email="695369826";
+var duan="1625427147";
 var submittitle='Đăng ký tư vấn';
 var submittedform=false;
 var titleheader="ĐĂNG KÝ TƯ VẤN NHẬN ƯU ĐÃI";
-var hotline="0926252179";
+var hotline="0931342229";
 var linkhientai=window.location.href;
 var thoigiancookie=1;
 var thoigianhien=10000;
@@ -140,7 +140,7 @@ jQuery("#myModalthanh").html(formdiv);
 function thanhxet(){
 
 if(submittedform) {
-	window.location="https://moshimoshi.vn/";
+	window.location="https://hocvienfaceseo.com";
 	
 	 if(document.cookie.indexOf("adf") == -1)
                    {
